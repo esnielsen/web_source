@@ -10,29 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Marine Genomics",
+    "Conservation Planning",
+    "Ecological Modeling"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Zoology"
+  institution = "Stellenbosch University"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biology"
+  institution = "University of California Santa Cruz"
+  year = 2014
  
 +++
 
 # Biography
 
-Erica Nielsen is super cool.
+I am a PhD candidate within the [von der Heyden lab](https://www.vonderheydenlab.com/) at Stellenbosch University. Some of my research interests include seascape genomics, conservation planning, social-ecological interactions, and ecological niche modeling. 
+
+When I am not working on my PhD, I am most likely on the water, teaching [hula hooping classes] (https://www.facebook.com/ericanielsenflowarts/), or hanging out with my three cats. 

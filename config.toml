@@ -9,7 +9,7 @@
 baseurl = "https://esnielsen.github.io/"
 
 # Title of your site
-title = "Erica S. Nielsen"
+title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -66,12 +66,12 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "esnielsen98@gmail..org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "esnielsen98@gmail.com"
+  # address = ""
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "+27(0) 78 232 8481"
+  skype = "erica.nielsen5"
+  # telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
